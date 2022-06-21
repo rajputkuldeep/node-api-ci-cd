@@ -6,5 +6,5 @@ app.get('/api', (req, res)=>{
 })
 
 app.listen(5000,()=>{
-    console.log('app u0 p')
+    console.log('app up')
 })
